@@ -24,10 +24,10 @@
                 saya berharap dapat memberikan inspirasi dan bantuan kepada Anda dalam menjalani perjalanan Anda sendiri. 
                 Terima kasih telah singgah, dan mari kita bersama-sama menjelajahi dan meraih mimpi-mimpi kita!"</p>
             <div class="social-media">
-                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100078234085794&mibextid=ZbWKwL" target="_blank"><i class='bx bxl-facebook'></i></a>
                 <a href="#"><i class='bx bxl-twitter'></i></a>
-                <a href="#"><i class='bx bxl-instagram' ></i></a>
-                <a href="#"><i class='bx bxl-youtube' ></i></a>
+                <a href="https://www.instagram.com/m.haiqal_rahman?igsh=NnQ4ZzQ4NWFrajJ1" target="_blank"><i class='bx bxl-instagram' ></i></a>
+                <a href="https://youtube.com/@haiqalrahman3080?si=R6i3t_CtTk9EdMvd" target="_blank"><i class='bx bxl-youtube' ></i></a>
             </div>
             <ButtonVue buttonName="Download CV"></ButtonVue>
         </div>
